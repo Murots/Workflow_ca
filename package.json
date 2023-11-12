@@ -8,7 +8,9 @@
     "build": "sass src/scss:dist/css",
     "start": "sass --watch src/scss:dist/css & live-server",
     "test": "npm run test-unit",
-    "test-unit": "jest"
+    "test-unit": "jest",
+    "test2": "npm run test-e2e",
+    "test-e2e": "cypress open"
   },
   "keywords": [],
   "author": "Noroff",
