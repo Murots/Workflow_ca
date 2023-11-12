@@ -1,6 +1,6 @@
 # Workflow_ca
 
-In this task we are assigned to create a good workflow enviroment, adding formatting and issues hooks and also automatic testing by Jest and Cypress.
+In this task we are assigned to create a good workflow enviroment, adding formatting- and issues hooks and also automatic testing by Jest and Cypress.
 
 ### Installing
 
@@ -12,9 +12,9 @@ https://github.com/Murots/Workflow_ca/tree/workflow
 
 ### Running
 
--Open and run index.html in your browser.
--Run npm build
--Run npm test 
+-Run npm build (to compile SASS to CSS)
+-Run npm start (to run locally) 
+-Run npm test (to run Jest and Cypress tests)
 
 ## Changes/problems
 
@@ -35,9 +35,9 @@ https://github.com/Murots/Workflow_ca/tree/workflow
 
 ##### Badges
 
-[![Automated Unit Testing](https://github.com/Murots/Workflow_ca/actions/workflows/unit-test.yml/badge.svg?branch=workflow)](https://github.com/Murots/Workflow_ca/actions/workflows/unit-test.yml)
+[![Automated Unit Testing](https://github.com/Murots/Workflow_ca/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Murots/Workflow_ca/actions/workflows/unit-test.yml)
 
-[![Automated E2E Testing](https://github.com/Murots/Workflow_ca/actions/workflows/e2e-test.yml/badge.svg?branch=workflow)](https://github.com/Murots/Workflow_ca/actions/workflows/e2e-test.yml)
+[![Automated E2E Testing](https://github.com/Murots/Workflow_ca/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/Murots/Workflow_ca/actions/workflows/e2e-test.yml)
 
 ###### Authors
 
