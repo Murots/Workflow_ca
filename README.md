@@ -39,6 +39,8 @@ https://github.com/Murots/Workflow_ca/tree/workflow
 
 [![Automated E2E Testing](https://github.com/Murots/Workflow_ca/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/Murots/Workflow_ca/actions/workflows/e2e-test.yml)
 
+[![Deploy static content to Pages](https://github.com/Murots/Workflow_ca/actions/workflows/pages.yml/badge.svg)](https://github.com/Murots/Workflow_ca/actions/workflows/pages.yml)
+
 ###### Authors
 
 Aleksander Storum
