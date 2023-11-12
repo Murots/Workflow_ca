@@ -30,11 +30,17 @@ https://github.com/Murots/Workflow_ca/tree/workflow
 #### References
 
 - Course modules
-- Learning videos from the course modules and weekly sessions
+- weekly sessions
 - ChatGPT as sparring partner.
 
-##### Authors
+##### Badges
+
+[![Automated Unit Testing](https://github.com/Murots/Workflow_ca/actions/workflows/unit-test.yml/badge.svg?branch=workflow)](https://github.com/Murots/Workflow_ca/actions/workflows/unit-test.yml)
+
+[![Automated E2E Testing](https://github.com/Murots/Workflow_ca/actions/workflows/e2e-test.yml/badge.svg?branch=workflow)](https://github.com/Murots/Workflow_ca/actions/workflows/e2e-test.yml)
+
+###### Authors
 
 Aleksander Storum
-40601659
+Github: Murots
 alesto95654@stud.noroff.no
