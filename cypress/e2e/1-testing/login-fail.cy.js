@@ -1,6 +1,6 @@
 describe('Login Fail', () => {
   it('should show error message when logging in with invalid credentials', () => {
-    cy.visit('https://murots.github.io/Workflow_ca/');
+    cy.visit('/');
     cy.wait(1000);
     cy.get('[data-auth=login]').click({ multiple: true, force: true });
     cy.wait(1000);
